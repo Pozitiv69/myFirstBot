@@ -1,0 +1,24 @@
+{
+  "name": "myfirstbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pozitiv69/myFirstBot.git"
+  },
+  "author": "Cherkashyn Dmytro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pozitiv69/myFirstBot/issues"
+  },
+  "homepage": "https://github.com/Pozitiv69/myFirstBot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemon": "^2.0.20"
+  }
+}
