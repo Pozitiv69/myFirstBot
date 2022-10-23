@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api');
-const path = require('node:path');
+
 const { gameOption, gameButton, againOption } = require('./options.js');
 const token = '5666972940:AAGagdTZEU0MaA1Trdk3MWiQSMnEBSNJ6IY';
 
